@@ -1,0 +1,15 @@
+package pl.com.ugeon.singleton;
+
+/**
+ * Created by mateusz on 01.06.18.
+ */
+public class Singleton {
+    private static Singleton instance = new Singleton();
+
+    private Singleton(){};
+
+    public static Singleton getInstance(){
+        return instance;
+    }
+
+}
