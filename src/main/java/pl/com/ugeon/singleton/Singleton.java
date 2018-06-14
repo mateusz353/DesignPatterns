@@ -8,8 +8,20 @@ public class Singleton {
 
     private Singleton(){};
 
+    //thread safety
     public static Singleton getInstance(){
         return instance;
+    }
+
+    //lazy loading, no thread safety
+    private static Singleton lazyInstance;
+
+    public static Singleton getLazyInstance()
+    {
+        if(lazyInstance == null){
+            lazyInstance = new Singleton();
+        }
+        return lazyInstance;
     }
 
 }
