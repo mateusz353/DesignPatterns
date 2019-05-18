@@ -5,7 +5,7 @@ import pl.com.ugeon.flyweight.platform.Platform;
 import pl.com.ugeon.flyweight.platform.PlatformFactory;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class TestFlyweight {
 

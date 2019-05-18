@@ -5,7 +5,7 @@ import pl.com.ugeon.templatemethod.game.Football;
 import pl.com.ugeon.templatemethod.game.Game;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class TemplatePatternDemo {
     public static void main(String[] args) {

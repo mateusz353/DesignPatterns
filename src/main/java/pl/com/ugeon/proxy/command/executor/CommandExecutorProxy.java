@@ -1,7 +1,7 @@
 package pl.com.ugeon.proxy.command.executor;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class CommandExecutorProxy implements CommandExecutor {
 

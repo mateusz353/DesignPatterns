@@ -7,7 +7,7 @@ import pl.com.ugeon.bridge.shape.impl.Pentagon;
 import pl.com.ugeon.bridge.shape.impl.Triangle;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class BridgePatternTest {
 

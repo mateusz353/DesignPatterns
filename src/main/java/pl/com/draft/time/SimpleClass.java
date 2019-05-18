@@ -1,7 +1,7 @@
 package pl.com.draft.time;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class SimpleClass {
 

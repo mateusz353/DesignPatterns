@@ -3,7 +3,7 @@ package pl.com.ugeon.bridge.color.impl;
 import pl.com.ugeon.bridge.color.Color;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class GreenColor implements Color {
 

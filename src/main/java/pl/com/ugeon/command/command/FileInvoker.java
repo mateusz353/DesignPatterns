@@ -1,7 +1,7 @@
 package pl.com.ugeon.command.command;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class FileInvoker {
 

@@ -5,7 +5,7 @@ import pl.com.ugeon.visitor.computer.ComputerPart;
 import pl.com.ugeon.visitor.visitor.ComputerPartDisplayVisitor;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class VisitorPatternDemo {
     public static void main(String[] args) {

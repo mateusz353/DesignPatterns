@@ -4,7 +4,7 @@ import pl.com.ugeon.iterator.repository.Iterator;
 import pl.com.ugeon.iterator.repository.NameRepository;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class IteratorPatternDemo {
 

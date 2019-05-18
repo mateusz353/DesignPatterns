@@ -1,7 +1,7 @@
 package pl.com.ugeon.chainofresponsibility.authority.purchase;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public abstract class PurchasePower {
     protected static final double BASE = 500;

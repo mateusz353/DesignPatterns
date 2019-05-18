@@ -4,7 +4,7 @@ import pl.com.ugeon.adapter.german.GermanPlugConnector;
 import pl.com.ugeon.adapter.uk.UKPlugConnector;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class GermanToUKAdapter implements UKPlugConnector {
 

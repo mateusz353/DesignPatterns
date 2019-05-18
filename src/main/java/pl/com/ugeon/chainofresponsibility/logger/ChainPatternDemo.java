@@ -6,7 +6,7 @@ import pl.com.ugeon.chainofresponsibility.logger.logger.ErrorLogger;
 import pl.com.ugeon.chainofresponsibility.logger.logger.FileLogger;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class ChainPatternDemo {
 

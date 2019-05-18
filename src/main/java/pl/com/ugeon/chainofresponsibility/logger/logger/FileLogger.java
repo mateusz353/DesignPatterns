@@ -1,7 +1,7 @@
 package pl.com.ugeon.chainofresponsibility.logger.logger;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class FileLogger extends AbstractLogger {
 

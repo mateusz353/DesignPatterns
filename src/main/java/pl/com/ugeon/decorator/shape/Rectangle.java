@@ -1,12 +1,13 @@
 package pl.com.ugeon.decorator.shape;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class Rectangle implements Shape {
 
-    @Override
-    public void draw() {
-        System.out.println("Shape: Rectangle");
-    }
+  @Override
+  public void draw() {
+
+    System.out.println("Shape: Rectangle");
+  }
 }

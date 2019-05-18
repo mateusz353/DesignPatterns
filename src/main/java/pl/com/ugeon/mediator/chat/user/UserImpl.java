@@ -3,7 +3,7 @@ package pl.com.ugeon.mediator.chat.user;
 import pl.com.ugeon.mediator.chat.mediator.ChatMediator;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class UserImpl extends User {
 

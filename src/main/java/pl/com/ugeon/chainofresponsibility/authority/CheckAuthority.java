@@ -11,7 +11,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class CheckAuthority {
 

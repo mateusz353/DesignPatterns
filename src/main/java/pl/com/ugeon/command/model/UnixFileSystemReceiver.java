@@ -1,7 +1,7 @@
 package pl.com.ugeon.command.model;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class UnixFileSystemReceiver implements FileSystemReceiver {
 

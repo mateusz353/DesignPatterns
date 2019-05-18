@@ -1,7 +1,7 @@
 package pl.com.ugeon.strategy.strategy;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class HappyHourStrategy implements BillingStrategy {
 

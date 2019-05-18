@@ -1,7 +1,7 @@
 package pl.com.ugeon.adapter.german;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class GermanPlugConnectorImpl implements GermanPlugConnector {
     @Override

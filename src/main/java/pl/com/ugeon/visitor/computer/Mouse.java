@@ -3,7 +3,7 @@ package pl.com.ugeon.visitor.computer;
 import pl.com.ugeon.visitor.visitor.ComputerPartVisitor;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class Mouse implements ComputerPart {
 

@@ -3,7 +3,7 @@ package pl.com.ugeon.privateclassdata;
 import java.awt.*;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class Circle {
 

@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Scanner;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 class EventSource extends Observable implements Runnable {
     public void run() {

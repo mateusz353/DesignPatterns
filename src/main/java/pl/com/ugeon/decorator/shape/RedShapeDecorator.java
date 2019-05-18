@@ -1,21 +1,24 @@
 package pl.com.ugeon.decorator.shape;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class RedShapeDecorator extends ShapeDecorator {
 
-    public RedShapeDecorator(Shape decoratedShape) {
-        super(decoratedShape);
-    }
+  public RedShapeDecorator(Shape decoratedShape) {
 
-    @Override
-    public void draw() {
-        decoratedShape.draw();
-        setRedBorder(decoratedShape);
-    }
+    super(decoratedShape);
+  }
 
-    private void setRedBorder(Shape decoratedShape){
-        System.out.println("Border Color: Red");
-    }
+  @Override
+  public void draw() {
+
+    decoratedShape.draw();
+    setRedBorder(decoratedShape);
+  }
+
+  private void setRedBorder(Shape decoratedShape) {
+
+    System.out.println("Border Color: Red");
+  }
 }

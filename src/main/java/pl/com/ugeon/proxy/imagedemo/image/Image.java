@@ -1,7 +1,7 @@
 package pl.com.ugeon.proxy.imagedemo.image;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public interface Image {
     void display();

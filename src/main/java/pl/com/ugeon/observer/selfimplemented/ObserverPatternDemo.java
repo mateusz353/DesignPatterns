@@ -6,7 +6,7 @@ import pl.com.ugeon.observer.selfimplemented.observer.OctalObserver;
 import pl.com.ugeon.observer.selfimplemented.subject.Subject;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class ObserverPatternDemo {
     public static void main(String[] args) {

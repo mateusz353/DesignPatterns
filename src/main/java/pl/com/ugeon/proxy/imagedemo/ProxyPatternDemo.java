@@ -4,7 +4,7 @@ import pl.com.ugeon.proxy.imagedemo.image.Image;
 import pl.com.ugeon.proxy.imagedemo.image.ProxyImage;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class ProxyPatternDemo {
 

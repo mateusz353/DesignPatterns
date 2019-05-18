@@ -6,7 +6,7 @@ import pl.com.ugeon.mediator.chat.user.User;
 import pl.com.ugeon.mediator.chat.user.UserImpl;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class ChatClient {
 

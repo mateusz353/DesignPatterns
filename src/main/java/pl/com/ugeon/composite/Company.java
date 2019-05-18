@@ -5,7 +5,7 @@ import pl.com.ugeon.composite.employee.Developer;
 import pl.com.ugeon.composite.employee.Manager;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class Company {
 

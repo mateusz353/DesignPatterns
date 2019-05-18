@@ -1,7 +1,7 @@
 package pl.com.ugeon.memento;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class MementoPatternDemo {
     public static void main(String[] args) {

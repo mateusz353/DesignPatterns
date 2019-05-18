@@ -5,7 +5,7 @@ import pl.com.ugeon.state.mobile.Silent;
 import pl.com.ugeon.state.mobile.Vibration;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 class StatePattern
 {

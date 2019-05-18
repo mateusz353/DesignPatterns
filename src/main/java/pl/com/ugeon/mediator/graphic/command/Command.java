@@ -1,7 +1,7 @@
 package pl.com.ugeon.mediator.graphic.command;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public interface Command {
     void execute();

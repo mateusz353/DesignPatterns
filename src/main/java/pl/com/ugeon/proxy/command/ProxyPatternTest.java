@@ -4,7 +4,7 @@ import pl.com.ugeon.proxy.command.executor.CommandExecutor;
 import pl.com.ugeon.proxy.command.executor.CommandExecutorProxy;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class ProxyPatternTest {
 

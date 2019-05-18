@@ -1,7 +1,7 @@
 package pl.com.ugeon.templatemethod.game;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class Football extends Game {
 

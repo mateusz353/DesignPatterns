@@ -1,7 +1,7 @@
 package pl.com.ugeon.bridge.color;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public interface Color {
 

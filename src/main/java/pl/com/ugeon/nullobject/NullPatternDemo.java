@@ -4,7 +4,7 @@ import pl.com.ugeon.nullobject.customer.AbstractCustomer;
 import pl.com.ugeon.nullobject.customer.CustomerFactory;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class NullPatternDemo {
     public static void main(String[] args) {

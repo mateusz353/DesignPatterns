@@ -7,7 +7,7 @@ import pl.com.ugeon.interpreter.expression.Number;
 import java.util.Stack;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class TestInterpreterPattern {
 

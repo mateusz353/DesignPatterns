@@ -5,7 +5,7 @@ import pl.com.ugeon.flyweightgrapic.forest.Forest;
 import java.awt.*;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class Demo {
     static int CANVAS_SIZE = 5000;

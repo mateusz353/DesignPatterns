@@ -1,7 +1,7 @@
 package pl.com.ugeon.composite.employee;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public interface Employee
 {

@@ -4,7 +4,7 @@ import pl.com.ugeon.facade.travel.BookingInfo;
 import pl.com.ugeon.facade.travel.TravelFacade;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class TravelFacadeDemo {
     public static void main( String[] args ){

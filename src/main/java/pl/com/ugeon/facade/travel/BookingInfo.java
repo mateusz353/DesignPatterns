@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class BookingInfo{
     String source;

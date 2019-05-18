@@ -6,7 +6,7 @@ import pl.com.ugeon.decorator.shape.RedShapeDecorator;
 import pl.com.ugeon.decorator.shape.Shape;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class DecoratorPatternDemo {
     public static void main(String[] args) {

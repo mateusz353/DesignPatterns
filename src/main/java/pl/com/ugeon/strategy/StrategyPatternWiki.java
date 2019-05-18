@@ -5,7 +5,7 @@ import pl.com.ugeon.strategy.strategy.HappyHourStrategy;
 import pl.com.ugeon.strategy.strategy.NormalStrategy;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class StrategyPatternWiki {
 

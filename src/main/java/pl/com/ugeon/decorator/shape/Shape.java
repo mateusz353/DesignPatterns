@@ -1,8 +1,9 @@
 package pl.com.ugeon.decorator.shape;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public interface Shape {
-    void draw();
+
+  void draw();
 }

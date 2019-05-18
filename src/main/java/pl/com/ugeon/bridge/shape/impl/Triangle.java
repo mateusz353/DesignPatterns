@@ -4,7 +4,7 @@ import pl.com.ugeon.bridge.color.Color;
 import pl.com.ugeon.bridge.shape.Shape;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class Triangle extends Shape {
 

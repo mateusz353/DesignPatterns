@@ -6,7 +6,7 @@ import javax.swing.*;
 import java.awt.event.ActionListener;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class BtnBook extends JButton implements Command {
 

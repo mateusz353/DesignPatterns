@@ -6,7 +6,7 @@ import pl.com.ugeon.visitor.computer.Monitor;
 import pl.com.ugeon.visitor.computer.Mouse;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class ComputerPartDisplayVisitor implements ComputerPartVisitor {
 

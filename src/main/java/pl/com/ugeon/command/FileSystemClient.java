@@ -9,7 +9,7 @@ import pl.com.ugeon.command.model.FileSystemReceiver;
 import pl.com.ugeon.command.model.FileSystemReceiverUtil;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class FileSystemClient {
 

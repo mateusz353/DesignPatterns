@@ -6,7 +6,7 @@ import pl.com.ugeon.mediator.graphic.command.BtnView;
 import pl.com.ugeon.mediator.graphic.command.LblDisplay;
 
 /**
- * @author Mateusz Nowakowski, Capgemini Technology Services.
+ * @author Mateusz Nowakowski.
  */
 public class ParticipantMediator implements Mediator {
 
